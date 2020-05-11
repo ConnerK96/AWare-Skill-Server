@@ -10,8 +10,10 @@ utterances:
   - please call [name](Conner)
   - please start a call with [name](Oliver)
   - please start a call to [name](Dad)
-  - .[name](Dad) call
   - . [name](Dad) call
-  - rufe [name](Mama) an
-  - . [name](Papa) anrufen
-  - .[name](Mama) anrufen
+  - . [name](Dad) call
+  - start a call to [name](Dad)
+  - go ahead and call my [name](Dad)
+  - I'd like to talk to [name](Conner)
+  - I want to speak with [name](Conner)
+  - Please contact [name](Oliver)
