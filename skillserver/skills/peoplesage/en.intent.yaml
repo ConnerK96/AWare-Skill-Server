@@ -9,3 +9,7 @@ utterances:
   - whats the age of [name](merkel)
   - tell me the age of [name](putin)
   - age of [name](donald trump)
+  - can you tell me how old [name](donald trump) is
+  - Do you know the age of [name](donald trump)
+  - Would you please tell me the age of [name](putin)
+  - Would you please tell how old [name](putin) is
