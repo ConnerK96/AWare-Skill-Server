@@ -15,5 +15,13 @@ utterances:
   - whats the weather in [city](London) [datetime](today)
   - what will the weather be in [city](Hamburg) [datetime](tomorrow)
   - whats the weather going to be in [city](berlin) [datetime](today in the evening)
-
+  - what is the weather like in [city](cologne)
+  - Tell me about the weather in [city](cologne)
+  - Can you tell me what the waether is like in [city](cologne)
+  - Is there good weather in [city](munich)
+  - Is it raining in [city](cologne)
+  - Does the sun shine in [city](cologne)
+  - Will there be sun in [city](cologne) [datetime](tomorrow)
+  - Whats the waeather like in [city](cologne) [datetime](today)
+  
 
