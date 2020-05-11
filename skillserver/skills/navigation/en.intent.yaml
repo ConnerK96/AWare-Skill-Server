@@ -10,6 +10,8 @@ utterances:
   - where is the [target](Kirche in Uffeln)
   - where to find [target](Möllbergerstaße 1000)
   - where is [target](Schweden)
+  - where do I find a [target](supermarket)
+  - where do I find the next [target](supermarket)
 
 ---
 type: intent
@@ -23,3 +25,4 @@ utterances:
   - start a navigation to [target](Sonnenzeit Vlotho)
   - show me the way to [target](Sonnenzeit Vlotho)
   - bring me to [target](Sonnenzeit Vlotho)
+  - how do I get to [target](Berlin)
