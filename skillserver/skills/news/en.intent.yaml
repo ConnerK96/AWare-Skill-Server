@@ -6,6 +6,8 @@ utterances:
   - what are the news
   - please tell me the news
   - can you tell me the news please
+  - what are todays news
+  - what are the news today 
 
 
 ---
@@ -21,4 +23,5 @@ utterances:
   - can you tell me the news please in [thema](sports)
   - whats the news about [thema](baseball)
   - tell me news in [thema](artificial intelligence)
+  - tell me todays [thema](sports) news
 
