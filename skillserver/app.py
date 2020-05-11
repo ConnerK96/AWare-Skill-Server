@@ -191,7 +191,7 @@ class serverHelpers:
 		self.lang = wtl.predict_lang(self.text)
 
 	# translation handling
-	def translate(self,text = None, target = self.mainlang, src = False):
+	def translate(self,text = None, target = "de", src = False):
 		global translation_engines
 		global translation_tokenizers
 		if(text == None):
